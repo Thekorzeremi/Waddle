@@ -1,0 +1,9 @@
+[package]
+name = "waddle"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+glib = "0.22.7"
+gtk = { version = "0.9", package = "gtk4"}
+rand = "0.8"
