@@ -1,2 +1,2 @@
 # Waddle
-Full courses for IT
+A rust pomodoro timer for Linux
